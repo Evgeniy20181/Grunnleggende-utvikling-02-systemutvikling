@@ -1,0 +1,15 @@
+C:\Users\Yevhe\Desktop\2ITA\Grunnleggende utvikling 02 systemutvikling\Grunnleggende utvikling 02\Lekse Hjelp\bin\Release\net8.0\Lekse Hjelp.exe
+C:\Users\Yevhe\Desktop\2ITA\Grunnleggende utvikling 02 systemutvikling\Grunnleggende utvikling 02\Lekse Hjelp\bin\Release\net8.0\Lekse Hjelp.deps.json
+C:\Users\Yevhe\Desktop\2ITA\Grunnleggende utvikling 02 systemutvikling\Grunnleggende utvikling 02\Lekse Hjelp\bin\Release\net8.0\Lekse Hjelp.runtimeconfig.json
+C:\Users\Yevhe\Desktop\2ITA\Grunnleggende utvikling 02 systemutvikling\Grunnleggende utvikling 02\Lekse Hjelp\bin\Release\net8.0\Lekse Hjelp.dll
+C:\Users\Yevhe\Desktop\2ITA\Grunnleggende utvikling 02 systemutvikling\Grunnleggende utvikling 02\Lekse Hjelp\bin\Release\net8.0\Lekse Hjelp.pdb
+C:\Users\Yevhe\Desktop\2ITA\Grunnleggende utvikling 02 systemutvikling\Grunnleggende utvikling 02\Lekse Hjelp\obj\Release\net8.0\Lekse Hjelp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yevhe\Desktop\2ITA\Grunnleggende utvikling 02 systemutvikling\Grunnleggende utvikling 02\Lekse Hjelp\obj\Release\net8.0\Lekse Hjelp.AssemblyInfoInputs.cache
+C:\Users\Yevhe\Desktop\2ITA\Grunnleggende utvikling 02 systemutvikling\Grunnleggende utvikling 02\Lekse Hjelp\obj\Release\net8.0\Lekse Hjelp.AssemblyInfo.cs
+C:\Users\Yevhe\Desktop\2ITA\Grunnleggende utvikling 02 systemutvikling\Grunnleggende utvikling 02\Lekse Hjelp\obj\Release\net8.0\Lekse Hjelp.csproj.CoreCompileInputs.cache
+C:\Users\Yevhe\Desktop\2ITA\Grunnleggende utvikling 02 systemutvikling\Grunnleggende utvikling 02\Lekse Hjelp\obj\Release\net8.0\Lekse Hjelp.sourcelink.json
+C:\Users\Yevhe\Desktop\2ITA\Grunnleggende utvikling 02 systemutvikling\Grunnleggende utvikling 02\Lekse Hjelp\obj\Release\net8.0\Lekse Hjelp.dll
+C:\Users\Yevhe\Desktop\2ITA\Grunnleggende utvikling 02 systemutvikling\Grunnleggende utvikling 02\Lekse Hjelp\obj\Release\net8.0\refint\Lekse Hjelp.dll
+C:\Users\Yevhe\Desktop\2ITA\Grunnleggende utvikling 02 systemutvikling\Grunnleggende utvikling 02\Lekse Hjelp\obj\Release\net8.0\Lekse Hjelp.pdb
+C:\Users\Yevhe\Desktop\2ITA\Grunnleggende utvikling 02 systemutvikling\Grunnleggende utvikling 02\Lekse Hjelp\obj\Release\net8.0\Lekse Hjelp.genruntimeconfig.cache
+C:\Users\Yevhe\Desktop\2ITA\Grunnleggende utvikling 02 systemutvikling\Grunnleggende utvikling 02\Lekse Hjelp\obj\Release\net8.0\ref\Lekse Hjelp.dll
