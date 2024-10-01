@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lekse Hjelp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b9a85ed33d7850d795ecb6285fd2c5e8610f08f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c53b1efb32a720b98a97c83ab635789c8d81244f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lekse Hjelp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lekse Hjelp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -40,7 +40,7 @@ class Program
             Console.WriteLine("4. Avslutt");
             Console.Write("Velg et alternativ: ");
             int valg = int.Parse(Console.ReadLine());
-
+            Console.Clear();
             switch (valg)
             {
                 case 1:
@@ -64,11 +64,11 @@ class Program
     static void LeggTilLekse()
     {
         Console.Write("Navn på lekse: ");
-        string navn = Console.ReadLine();
+        string? navn = Console.ReadLine();
         Console.Write("Frist: ");
-        string frist = Console.ReadLine();
+        string? frist = Console.ReadLine();
         Console.Write("Fag: ");
-        string fag = Console.ReadLine();
+        string? fag = Console.ReadLine();
 
         lekseListe.Add(new Lekse(navn, frist, fag));
         Console.WriteLine("Lekse lagt til!");
@@ -87,6 +87,7 @@ class Program
     {
         VisLekser();
         Console.Write("Velg lekse å markere som fullført (tast nummer): ");
+
         int index = int.Parse(Console.ReadLine()) - 1;
 
         if (index >= 0 && index < lekseListe.Count)
